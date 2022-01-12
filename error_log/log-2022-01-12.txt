@@ -1,0 +1,9 @@
+ERROR - 2022-01-12 09:19:43 --> Severity: Warning --> Undefined variable $api_key C:\xampp\htdocs\webci3\application\controllers\Management.php 63
+ERROR - 2022-01-12 09:19:43 --> Severity: Warning --> Undefined variable $apis C:\xampp\htdocs\webci3\application\controllers\Management.php 63
+ERROR - 2022-01-12 09:19:43 --> Severity: Warning --> Undefined array key "nd" C:\xampp\htdocs\webci3\application\controllers\Management.php 64
+ERROR - 2022-01-12 09:19:43 --> Severity: Warning --> Undefined property: Management::$dbql C:\xampp\htdocs\webci3\system\core\Model.php 73
+ERROR - 2022-01-12 09:19:43 --> Severity: error --> Exception: Call to a member function select() on null C:\xampp\htdocs\webci3\application\models\M_management.php 41
+ERROR - 2022-01-12 03:34:42 --> 404 Page Not Found: Api/signout
+ERROR - 2022-01-12 09:35:44 --> Severity: Warning --> Undefined variable $config C:\xampp\htdocs\webci3\application\controllers\Management.php 97
+ERROR - 2022-01-12 09:37:28 --> Severity: Warning --> Undefined array key "id" C:\xampp\htdocs\webci3\application\controllers\Management.php 106
+ERROR - 2022-01-12 09:37:38 --> Severity: error --> Exception: Call to undefined method CI_DB_mysqli_driver::wherer() C:\xampp\htdocs\webci3\application\models\M_management.php 43
